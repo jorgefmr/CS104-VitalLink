@@ -1,0 +1,9 @@
+Patient: Bilbo Baggins
+DOB: 2889-09-22
+MRN: 123456
+Allergies: None
+Reason for Visit: Routine check-up as needed for relocation
+Vitals: BP 118/76, HR 74, Resp 14, Temp 98.4, O2 99%
+Assessment: Excellent health for a hobbit of his age.
+Plan: Maintain balanced diet, regular walks, and minimal dragon exposure.
+light meal
